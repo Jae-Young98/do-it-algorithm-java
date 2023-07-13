@@ -1,4 +1,4 @@
-package ch3.array;
+package ch3.datastructure;
 
 import java.io.BufferedReader;
 import java.io.IOException;
