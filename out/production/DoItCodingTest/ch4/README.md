@@ -5,3 +5,4 @@
 |1377|[버블 소트 프로그램1](https://www.acmicpc.net/problem/1377)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch4/sort/BOJ_1377.java)||
 |1427|[내림차순으로 자릿수 정렬하기](https://www.acmicpc.net/problem/1427)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch4/sort/BOJ_1427.java)||
 |11399|[ATM 인출 시간 계산하기](https://www.acmicpc.net/problem/11399)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch4/sort/BOJ_11399.java)||
+|11004|[K번째 수 구하기](https://www.acmicpc.net/problem/11004)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch4/sort/BOJ_11004.java)||
