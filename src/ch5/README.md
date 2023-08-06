@@ -6,3 +6,4 @@
 |13023|[친구 관계 파악하기](https://www.acmicpc.net/problem/13023)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_13023.java)||
 |1260|[DFS와 BFS](https://www.acmicpc.net/problem/13023)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_1260.java)||
 |1167|[트리의 지름](https://www.acmicpc.net/problem/1167)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_1167.java)||
+|1920|[원하는 정수 찾기](https://www.acmicpc.net/problem/1920)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_1920.java)||
