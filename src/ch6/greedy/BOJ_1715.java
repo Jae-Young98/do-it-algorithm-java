@@ -1,4 +1,4 @@
-package ch5.search;
+package ch6.greedy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

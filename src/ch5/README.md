@@ -9,5 +9,3 @@
 |1920|[원하는 정수 찾기](https://www.acmicpc.net/problem/1920)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_1920.java)||
 |2343|[블루레이 만들기](https://www.acmicpc.net/problem/2343)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_2343.java)||
 |1300|[K번째 수](https://www.acmicpc.net/problem/1300)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_1300.java)||
-|11047|[동전 개수의 최솟값 구하기](https://www.acmicpc.net/problem/1300)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_11047.java)||
-|1715|[카드 정렬하기](https://www.acmicpc.net/problem/1300)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch5/search/BOJ_1715.java)||
