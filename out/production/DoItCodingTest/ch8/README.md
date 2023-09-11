@@ -6,3 +6,4 @@
 |1707|[이분 그래프](https://www.acmicpc.net/problem/1707)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch8/graph/BOJ_1707.java)||
 |1717|[집합 표현하기](https://www.acmicpc.net/problem/1717)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch8/graph/BOJ_1717.java)||
 |1976|[여행 계획 짜기](https://www.acmicpc.net/problem/1976)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch8/graph/BOJ_1976.java)||
+|2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|[정답코드](https://github.com/Jae-Young98/do-it-algorithm-java/blob/master/src/ch8/graph/BOJ_2252.java)||
