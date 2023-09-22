@@ -9,11 +9,10 @@ public class BOJ_11404 {
 
     static int n, m;
     static int distance[][];
-    static final int INF = 1000001;
+    static final int INF = 10000001;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
         StringTokenizer st;
         n = Integer.parseInt(br.readLine());
         m = Integer.parseInt(br.readLine());
